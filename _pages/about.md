@@ -51,13 +51,13 @@ I am currently a **Senior Engineer** at **HuaWei**, specializing in **AI Securit
   <br/>
   Chunlong Xie, Kangjie Chen, Shangwei Guo, **Shudong Zhang**, Tianwei Zhang, Tao Xiang
   <br/>
-  *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025*
+  *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025*, **Spotlight**
 
 - **[Attention! Your Vision Language Model Could Be Maliciously Manipulated](https://openreview.net/pdf?id=418UYQKGqB)**
   <br/>
   Xiaosen Wang, Shaokang Wang, Zhijin Ge, Yuyang Luo, **Shudong Zhang**
   <br/>
-  *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025*, **Spotlight**
+  *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025*, 
 
 - **[TRUST-VLM: Thorough Red-teaming for Uncovering Safety Threats in Vision-Language Models](https://kangjie-chen.github.io/files/2025_ICML.pdf)**
   <br/>
