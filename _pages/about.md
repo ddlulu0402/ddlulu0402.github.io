@@ -29,7 +29,7 @@ I am currently a **Senior Engineer** at **HuaWei**, specializing in **AI Securit
   <br/>
   Chunlong Xie, Kangjie Chen, Shangwei Guo, **Shudong Zhang**, Jiamou Liu, Tianwei Zhang, Tao Xiang
   <br/>
-  *Forty-third International Conference on Machine Learning, ICML 2026, CCF-A*
+  *Forty-third International Conference on Machine Learning, (ICML), 2026*
 - **[Diagnosing and Repairing Unsafe Channels in Vision-Language Models via Causal Discovery and Dual-Modal Safety Subspace Projection](https://arxiv.org/pdf/2603.27240v1)**
   <br/>
   Jinhu Fu, Yihang Lou, Qingyi Si, **Shudong Zhang**, Yan Bai, Sen Su 
