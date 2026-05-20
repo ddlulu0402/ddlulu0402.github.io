@@ -25,6 +25,11 @@ I am currently a **Senior Engineer** at **HuaWei**, specializing in **AI Securit
 <br/>
 
 ## Publications
+- **[Dissecting the Safety Circuit: Neuronal Intervention for Transferable Adversarial Attacks on VLMs]
+  <br/>
+  Chunlong Xie, Kangjie Chen, Shangwei Guo, **Shudong Zhang**, Jiamou Liu, Tianwei Zhang, Tao Xiang
+  <br/>
+  *Forty-third International Conference on Machine Learning, ICML 2026, CCF-A
 - **[ShadeEdit: A Utility-Preserving and Defense-Evasive Knowledge Manipulation Attack in Federated LLMs](https://openreview.net/pdf?id=kCAgwUykm2)**
   <br/>
   Xu Zhang, Hangcheng Liu, Shangwei Guo, **Shudong Zhang**, Tianwei Zhang, Tao Xiang 
