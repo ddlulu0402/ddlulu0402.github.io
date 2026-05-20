@@ -25,7 +25,7 @@ I am currently a **Senior Engineer** at **HuaWei**, specializing in **AI Securit
 <br/>
 
 ## Publications
-- **[Dissecting the Safety Circuit: Neuronal Intervention for Transferable Adversarial Attacks on VLMs]
+- **[Dissecting the Safety Circuit: Neuronal Intervention for Transferable Adversarial Attacks on VLMs]**
   <br/>
   Chunlong Xie, Kangjie Chen, Shangwei Guo, **Shudong Zhang**, Jiamou Liu, Tianwei Zhang, Tao Xiang
   <br/>
