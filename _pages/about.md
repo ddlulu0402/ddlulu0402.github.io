@@ -29,12 +29,12 @@ I am currently a **Senior Engineer** at **HuaWei**, specializing in **AI Securit
   <br/>
   Chunlong Xie, Kangjie Chen, Shangwei Guo, **Shudong Zhang**, Jiamou Liu, Tianwei Zhang, Tao Xiang
   <br/>
-  *Forty-third International Conference on Machine Learning, (ICML), 2026*
+  *Forty-third International Conference on Machine Learning (ICML), 2026*
 - **[Diagnosing and Repairing Unsafe Channels in Vision-Language Models via Causal Discovery and Dual-Modal Safety Subspace Projection](https://arxiv.org/pdf/2603.27240v1)**
   <br/>
   Jinhu Fu, Yihang Lou, Qingyi Si, **Shudong Zhang**, Yan Bai, Sen Su 
   <br/>
-  *Conference on Computer Vision and Pattern Recognition 2026 (CVPR), 2026*
+  *Conference on Computer Vision and Pattern Recognition (CVPR), 2026*
 - **[ShadeEdit: A Utility-Preserving and Defense-Evasive Knowledge Manipulation Attack in Federated LLMs](https://openreview.net/pdf?id=kCAgwUykm2)**
   <br/>
   Xu Zhang, Hangcheng Liu, Shangwei Guo, **Shudong Zhang**, Tianwei Zhang, Tao Xiang 
